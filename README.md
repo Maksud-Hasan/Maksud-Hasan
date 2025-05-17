@@ -3,7 +3,7 @@
 </div>
 
 ## About Me
-Md. Maksud-Ul Hasan, a Master’s in Sociology graduate from Rajshahi University, excels as the Chairman of Advanced Research Thoughts Lab Ltd. With over 17 years of experience, I’ve led MEAL strategy development, evaluation design, and data management for 20+ global partners, including USAID, UN Women, and KOICA. Specializing in mixed-methods research (Stata, SPSS, Power BI) and Collaborating, Learning, and Adapting (CLA), I deliver actionable insights across sectors like child nutrition, climate change, and WASH. My work includes impactful evaluations like Oxfam’s Means to Lead Project and USAID’s MaMoni Maternal Care Strengthening. A published researcher and active LinkedIn contributor, I’m passionate about capacity building and gender-inclusive MEAL practices. I’m eager to collaborate on data-driven development and humanitarian projects.
+I'm Maksud Hasan. I bring 7+ years of experience in analysing data 📊, creating visualisations 📈, and producing academic writing ✍️. I love helping businesses unlock the power of their data to create impactful interpretations and visually appealing dashboards 🧮. I use tools like MS Excel, IBM SPSS, and STATA for deep analysis, and create engaging dashboards using Power BI and Google Looker Studio 📈✨.
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-Coming%20Soon-blue)
 
