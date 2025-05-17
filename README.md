@@ -30,4 +30,29 @@ Md. Maksud-Ul Hasan, a Master’s in Sociology graduate from Rajshahi University
 ## 📈 GitHub Stats
 ![Maksud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maksud-Hasan&show_icons=true&theme=dracula)
 
-## 🔥
+## 🔥 Contribution Streak
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Maksud-Hasan&theme=dracula)
+
+## 📌 Pinned Projects
+- **[Impact Evaluation of Means to Lead Project](https://github.com/Maksud-Hasan/Means-to-Lead-Evaluation)**  
+  Conducted an impact evaluation for Oxfam in Bangladesh, focusing on women’s leadership, using mixed-methods analysis for UN Women.  
+  ![Stata](https://img.shields.io/badge/-Stata-1E4A7D?logo=stata&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+- **[Baseline Survey of MaMoni Maternal Care](https://github.com/Maksud-Hasan/MaMoni-Baseline-Survey)**  
+  Led a baseline survey for USAID’s MaMoni Maternal and Newborn Care Strengthening Project at Save the Children, designing data collection tools and dashboards.  
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+- **[Integrated Flood Resilience Programme](https://github.com/Maksud-Hasan/Flood-Resilience-Evaluation)**  
+  Performed an end-line evaluation for IFRC’s Integrated Flood Resilience Programme Phase 2, analyzing resilience metrics for KOICA.  
+  ![SPSS](https://img.shields.io/badge/-SPSS-013366?logo=ibm&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+- **[Born on Time Baseline Survey](https://github.com/Maksud-Hasan/Born-on-Time-Survey)**  
+  Designed and led the baseline survey for Plan International’s Born on Time Project, focusing on maternal health outcomes for Johnson & Johnson.  
+  ![Stata](https://img.shields.io/badge/-Stata-1E4A7D?logo=stata&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+## 📚 Publications
+- **Journal**: [Adolescent Boys' Perspectives on Reproductive Health and Gender Dynamics](https://fortunejournals.com/abstract/adolescent-boys39-perspectives) (Journal of Women's Health and Development, 2023)
+- **LinkedIn Article**: [Introduction to Monitoring and Evaluation](https://www.linkedin.com/pulse/introduction-monitoring-evaluation-maksud-hasan-pmd-pro)
+- **LinkedIn Article**: [Designing a Monitoring and Evaluation Framework](https://www.linkedin.com/pulse/designing-monitoring-evaluation-framework-maksud-hasan-pmd-pro)
+
+@Advanced-Research-Thoughts-Lab
