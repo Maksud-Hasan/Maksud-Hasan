@@ -55,4 +55,3 @@ Md. Maksud-Ul Hasan, a Master’s in Sociology graduate from Rajshahi University
 - **LinkedIn Article**: [Introduction to Monitoring and Evaluation](https://www.linkedin.com/pulse/introduction-monitoring-evaluation-maksud-hasan-pmd-pro)
 - **LinkedIn Article**: [Designing a Monitoring and Evaluation Framework](https://www.linkedin.com/pulse/designing-monitoring-evaluation-framework-maksud-hasan-pmd-pro)
 
-@Advanced-Research-Thoughts-Lab
