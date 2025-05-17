@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Md.+Maksud-Ul+Hasan;Data-Analyst+Visualization+Excel+SPSS+Power-BI+Looker+Studio" alt="Animated Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Md.+Maksud-Ul+Hasan;Data-Analyst+Visualization+Excel;SPSS+Power-BI+Looker+Studio" alt="Animated Intro" />
 </div>
 
 ## About Me
